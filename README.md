@@ -274,9 +274,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Contact
 
-**Project Maintainer:** Your Name  
-**Email:** your.email@example.com  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**Project Maintainer:veera6102 
+**Email:** veerach010@gmail.com 
+**GitHub:** [@yourusername](https://github.com/veera6102)
 
 ---
 
